@@ -1,0 +1,4 @@
+bugs appear when i run a model on AnyLogic professional version 8.7.0.
+the model runs all right on my AnyLogic PLE version (where i built it).
+but it says "gisRoute2 (GISRoute) : Offset (9715.872241791376) is greater than length (1709.9551535313788)" on professional version.
+do someone knows how to deal with it?
